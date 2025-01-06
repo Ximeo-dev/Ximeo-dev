@@ -2,7 +2,7 @@
 
 
 ## What I know 🤔
-I am still a beginner in coding *(2 years)*. I strive for more knowledge. I constantly study and try new technologies to become better.
+I am still a beginner in coding *(3 years)*. I strive for more knowledge. I constantly study and try new technologies to become better.
 
 Some of the technologies I use the most:
 
