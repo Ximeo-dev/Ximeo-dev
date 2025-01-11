@@ -1,25 +1,44 @@
-## Hello, I'm Ximeo 👨🏻‍💻
+<h2 align="center">Hi! My name is Ximeo and I'm a fullstack developer</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ximeo-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ximeo-dev&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ximeo-dev&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=6&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## What I know 🤔
-I am still a beginner in coding *(3 years)*. I strive for more knowledge. I constantly study and try new technologies to become better.
+<h2 align="center">My skills</h2>
 
-Some of the technologies I use the most:
+<div align="center">
+  <!-- First row -->
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=electron" height="45" alt="electron logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
 
-![Python](https://img.shields.io/badge/python-%231d588a.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%2370a6ff.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  <!-- Second row -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellijidea logo"  />
+</div>
