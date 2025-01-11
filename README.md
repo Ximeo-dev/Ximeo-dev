@@ -36,9 +36,9 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
   <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
 </div>
