@@ -1,11 +1,16 @@
 <h2 align="center">Hi! My name is Ximeo and I'm a fullstack developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ximeo-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ximeo-dev&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=6&theme=radical&hide_border=false" height="150" alt="GitHub Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats-ximeo-devs-projects.vercel.app?user=Ximeo-dev&theme=radical" alt="GitHub Streak" />
+  <!-- Первый ряд: GitHub Stats и Top Languages -->
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ximeo-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&border_radius=10" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ximeo-dev&locale=en&hide_title=false&border_radius=8&layout=compact&card_width=300&langs_count=6&theme=radical&hide_border=false" height="150" alt="GitHub Languages" />
+  </div>
+
+  <!-- Второй ряд: GitHub Streak -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-streak-stats-ximeo-devs-projects.vercel.app?user=Ximeo-dev&theme=radical&card_width=450&card_height=150&border_radius=7" alt="GitHub Streak" />
+  </div>
 </div>
 
 <h2 align="center">My skills</h2>
