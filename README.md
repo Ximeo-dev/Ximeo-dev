@@ -17,9 +17,9 @@
 
 <div align="center">
   <!-- First row -->
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
