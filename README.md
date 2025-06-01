@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Ximeo and I'm a fullstack developer</h2>
+<h2 align="center">Hi! My name is Artem and I'm a fullstack developer (prefer backend)</h2>
 
 <div align="center">
   <!-- Первый ряд: GitHub Stats и Top Languages -->
